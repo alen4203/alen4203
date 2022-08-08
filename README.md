@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Cheng-Hsiang, Wang</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alen4203](https://github.com/alen4203)
 
